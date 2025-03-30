@@ -110,8 +110,8 @@
 
 <div align="center">
   <h2>💡 Featured Projects</h2>
-  <a href="https://github.com/Ranggaalan/project-1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ranggaalan&repo=project-1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Ranggaalan/Ranggaalan">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ranggaalan&repo=Ranggaalan&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Ranggaalan/project-2">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ranggaalan&repo=project-2&theme=tokyonight&hide_border=true" />
