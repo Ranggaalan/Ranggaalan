@@ -25,7 +25,7 @@
   
   🚀 Exploring **Machine Learning, Deep Learning, Ensemble Methods, NLP & Computer Vision**
   
-  💡 Ask me about **Data Analytics, Visualization & ML Solutions**
+  💡 Ask me about **Data Analytics, Visualization & ML Solutions**.... or anything [here](https://github.com/Ranggaalan/Ranggaalan/issues)
   
   📊 Passionate about **transforming complex data into meaningful insights!**
 </div>
