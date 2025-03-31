@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rangga%20Laksana&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
 </div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=8A2BE2&width=435&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Transforming+data+into+insights;Building+intelligent+solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=8A2BE2&width=435&lines=Hello+I'm+Rangga+%7C+A+Passionate+Data+Scientist;Passionate+about+Data+Science+%7C+ML+%7C+AI;Transforming+data+into+insights;Building+intelligent+solutions" />
 </p>
 
 <p align="right">
